@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Class-Path: jackson-annotations-2.8.0.jar mybatis-spring-boot-starter-
+ 1.3.2.jar mybatis-spring-1.3.2.jar jcl-over-slf4j-1.7.25.jar tomcat-j
+ dbc-8.5.35.jar spring-boot-autoconfigure-1.5.18.RELEASE.jar classmate
+ -1.3.4.jar mysql-connector-java-5.1.47.jar spring-boot-starter-tomcat
+ -1.5.18.RELEASE.jar mybatis-spring-boot-autoconfigure-1.3.2.jar mybat
+ is-3.4.6.jar spring-webmvc-4.3.21.RELEASE.jar spring-context-support-
+ 4.3.21.RELEASE.jar tomcat-embed-websocket-8.5.35.jar snakeyaml-1.17.j
+ ar jackson-core-2.8.11.jar spring-boot-starter-1.5.18.RELEASE.jar log
+ 4j-over-slf4j-1.7.25.jar tomcat-juli-8.5.35.jar logback-core-1.1.11.j
+ ar freemarker-2.3.28.jar tomcat-embed-el-8.5.35.jar commons-lang3-3.8
+ .1.jar spring-beans-4.3.21.RELEASE.jar tomcat-annotations-api-8.5.35.
+ jar jboss-logging-3.3.2.Final.jar jul-to-slf4j-1.7.25.jar spring-core
+ -4.3.21.RELEASE.jar spring-context-4.3.21.RELEASE.jar spring-web-4.3.
+ 21.RELEASE.jar spring-boot-starter-logging-1.5.18.RELEASE.jar validat
+ ion-api-1.1.0.Final.jar spring-expression-4.3.21.RELEASE.jar spring-a
+ op-4.3.21.RELEASE.jar spring-jdbc-4.3.21.RELEASE.jar logback-classic-
+ 1.1.11.jar spring-boot-starter-freemarker-1.5.18.RELEASE.jar spring-b
+ oot-starter-jdbc-1.5.18.RELEASE.jar tomcat-embed-core-8.5.35.jar spri
+ ng-boot-starter-web-1.5.18.RELEASE.jar spring-tx-4.3.21.RELEASE.jar j
+ ackson-databind-2.8.11.3.jar hibernate-validator-5.3.6.Final.jar slf4
+ j-api-1.7.25.jar spring-boot-1.5.18.RELEASE.jar
+Main-Class: com.conf.admin.ConfAdminApplication
+
